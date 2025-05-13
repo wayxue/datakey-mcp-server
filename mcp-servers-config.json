@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "datakey-mcp": {
+    "datakey-mcp-server": {
       "type": "sse",
       "url": "http://mcp.datakey.cloud/sse"
     }
